@@ -1,0 +1,669 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+/* HEADER  */
+.header a{
+    color: #A8A0B0;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 30px 60px;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+    align-items: center;
+    justify-content: space-around;
+}
+.header{
+    margin: 30px 0;
+    display: flex;
+}
+.nout-live1{
+    width: 40px;
+height: 40px;
+    border-radius: 20px 0px 20px 20px;
+background: #8643DC;
+}
+.nout-live2{
+    margin: 0 0 5px 15px;
+    border-radius: 10px 0px;
+background: #FF59C1;
+    width: 24px;
+height: 23px;
+
+}
+.nout-live3{
+margin: 0 15px 20px 0 ;
+    color: #FFF;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 30px;
+font-weight: 700;
+}
+.nout-live-a{
+ margin: 7px 0;
+}
+.nout-live-a span{
+   margin:0 0 0 90px
+}
+/* HEADER  */
+/* HERO */
+.hero{
+}
+.helo-live{
+    display: flex;
+}
+.continus-1 img{
+    margin:-100px -200px 200px 500px ;
+    width: 635px;
+height: 722px;
+}
+
+.helo-live h4{
+    margin: 90px 0 0 0;
+    color: #666;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 120%; 
+    
+}
+.continus-2{
+    margin: -690px 0 0 0;
+}
+.helo-live-1 h1{
+    margin: 30px 0 ;
+    color: #25202F;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 60px;
+font-weight: 700;
+line-height: 120%;
+}
+.helo-live-2 h5{
+    color: #25202F;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 24px;
+font-weight: 400;
+}
+.hero-live-3 button{
+    margin: 30px 0;
+    border: none;
+    color: #FFF;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 24px;
+font-weight: 500;
+width: 200px;
+height: 60px;
+border-radius: 100px;
+background: #8643DC;
+}
+
+/* HERO */
+/* LANSER  */
+.lanser p{
+    color: #8643DC;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.coffi-1{
+    margin: 10px 0;
+    width: 60px;
+height: 2px;
+background: #8643DC;
+}
+.lanser h1{
+    margin: 10px 0 30px 0;
+    color: #25202F;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 36px;
+font-weight: 700;
+}
+.luna-1{
+    margin: 350px 0 0 0;
+}
+.obshac-1{
+    margin: 20px 0 100px 0;
+    display: flex;
+}
+.jalganby-1{
+  display: flex;
+}
+.mobil-3 img{
+    margin: -270px -30px 30px 20px;
+}
+.nyork-1 h1{
+    margin: 20px 20px ;
+    color: #25202F;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 24px;
+font-weight: 300px;
+}
+.paragraf-1 p{
+    color: #47444E;
+    font-size: 16px;
+    font-weight: 200px ;
+    line-height: 32px; 
+}
+
+
+
+.apple-2{
+    margin: 0 30px;
+}
+.jalganby-2{
+    display: flex;
+  }
+  .mobil-4 img{
+      margin: -280px -30px 40px 20px;
+  }
+  .nyork-2 h1{
+      margin: 20px 20px ;
+      color: #25202F;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-weight: 300px;
+  }
+  .paragraf-2 p{
+      color: #47444E;
+      font-size: 16px;
+      font-weight: 200px ;
+      line-height: 32px; 
+  }
+
+
+
+
+
+  .jalganby-3{
+    display: flex;
+  }
+  .mobil-5 img{
+      margin: -280px -30px 40px 20px;
+  }
+  .nyork-3 h1{
+      margin: 20px 20px ;
+      color: #25202F;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-weight: 300px;
+  }
+  .paragraf-3 p{
+      color: #47444E;
+      font-size: 16px;
+      font-weight: 200px ;
+      line-height: 32px; 
+  }
+/* LANSER  */
+/* STEP  */
+ .stol-1 h5{
+
+    color: #8643DC;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-weight: 400;
+}
+.jip-1{
+    width: 50px;
+height: 2px;
+background: #8643DC;
+}
+.odinokii-lef{
+    display: flex;
+    align-items: center;
+}
+.odinok-lef h1{
+    color: #25202F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700px;
+    line-height: normal;
+}
+.odinokii-lef h3{
+    margin: 0 -400px 0 850px ;
+    color: #25202F;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-weight: 300px;
+text-decoration-line: underline;
+
+}
+.redmi-note{
+    margin: 0 200px 0 -60px ;
+    display: flex;
+}
+.redmi-note img{
+    width: 640px;
+height: 527px;
+}
+.redmi-note-1 img{
+    margin: 0 30px 0 -40px;
+}
+/* STEP  */
+/* DRIFT  */
+.bernout-logo h5{
+    color: #8643DC;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.bernout-logo div{
+    width: 50px;
+height: 2px;
+background: #8643DC;
+}
+.bernout-logo h2{
+    color: #25202F;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 36px;
+font-weight: 700px;
+
+}
+.drifts{
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.slask-left{
+    width: 170px;
+height: 170px;
+border-radius: 10px;
+border: 1px solid #FFE7F0;
+background: #FFF6FA;
+box-shadow: 0px 20px 50px 0px rgba(220, 192, 255, 0.30);
+}
+.slask-left img{
+margin: 30px 0 0 50px;
+}
+.slask-left p{
+    margin: 30px 0 0 50px;
+}
+
+.slask-leftis{
+    width: 170px;
+height: 170px;
+border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #CAFFE1;
+background: #EDFFF5;
+box-shadow: 0px 20px 50px 0px rgba(139, 217, 155, 0.3);
+}
+.slask-leftis img{
+margin: 30px 0 0 50px;
+}
+.slask-leftis p{
+    margin: 30px 0 0 50px;
+}
+
+
+.slask-leftisi{
+    width: 170px;
+height: 170px;
+border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #DDF5FF;
+background: #F5FCFF;
+box-shadow: 0px 20px 50px 0px rgba(94, 177, 188, 0.3);
+}
+.slask-leftisi img{
+margin: 30px 0 0 50px;
+}
+.slask-leftisi p{
+    margin: 30px 0 0 50px;
+}
+
+.slask-leftisin{
+    width: 170px;
+height: 170px;
+border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #FFEEC9;
+background: #FFFBF2;
+box-shadow: 0px 20px 50px 0px rgba(224, 223, 111, 0.3);
+}
+.slask-leftisin img{
+margin: 30px 0 0 50px;
+}
+.slask-leftisin p{
+    margin: 30px 0 0 50px;
+}
+
+
+
+.slask-leftisins{
+    width: 170px;
+height: 170px;
+border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #DBFFC3;
+background: #F4FFED;
+box-shadow: 0px 20px 50px 0px rgba(113, 198, 53, 0.3)
+}
+.slask-leftisins img{
+margin: 30px 0 0 50px;
+}
+.slask-leftisins p{
+    margin: 30px 0 0 50px;
+}
+ /*DRIFT  */
+/* MOXITTO  */
+#moxitto{
+    margin: 100px 0 0 0;
+    padding: 0 40px;
+    width: 1440px;
+    height: 722px;
+    background: linear-gradient(180deg, rgba(203, 163, 255, 0.20) 0%, rgba(197, 255, 176, 0.20) 100%);
+    /* filter: blur(75px); */
+    } 
+ .jashul-1{
+    position: absolute;
+ }
+.milashka-baginia h5{
+    color: #8643DC;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-weight: 400;
+}
+
+.nashe-pivo{
+   
+    width: 50px;
+height: 2px;
+background: #8643DC;
+}
+.milashka-baginia h2{
+    margin: 20px 0;
+    color: #25202F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+.oboshii-1{
+  margin: 0 10px;
+    display: flex;
+}
+.adam-lef-1{
+    margin: 30px 0;
+}
+.adam-lef-1 img{
+    filter: blur(2px);
+    width: 60px;
+    border-radius: 10px ;
+}
+.paragraftar-1{
+    margin: -10px -220px 0 220px;
+}
+.paragraftar-1 p{
+    text-align: center;
+    color: #636066;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px; 
+}
+.ytyr-centr{
+    margin: 0 0 0 240px;
+}
+.adam-lef-2{
+margin: 30px 0 0 400px;
+}
+.adam-lef-2 span img{
+    filter: blur(2px);
+    width: 60px;
+    border-radius: 10px;
+}
+.toshok-left{
+     margin: 40px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.kartoshka-lef{
+    margin: 150px 0 0 0;
+}
+.kartoshka-lef img{
+    filter: blur(2px);
+border-radius: 10px;
+}
+.pomidor-left img{
+    border-radius: 10px;
+}
+.prozrach-4 h4{
+    color: #000;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-weight: 500;
+}
+.prozrach-4 h5{
+    
+    color: #000;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-weight: 400;
+}
+.darbuz-left{
+    margin: 150px 0 0 0;
+}
+.darbuz-left img{
+    filter: blur(2px);
+    border-radius: 10px;
+}
+.tochka-1 img{
+ margin: 20px 0 0 520px;
+}
+/* MOXITTO  */
+/* MAI  */
+.mai{
+    margin: 90px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+
+}
+.blog-1 h5{
+    color: #8643DC;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-weight: 400;
+}
+.susk-1{
+    margin: 13px 0;
+    width: 50px;
+height: 2px;
+background: #8643DC;
+}
+.blog-1 h2{
+    color: #25202F;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 36px;
+font-weight: 700;
+}
+.nuke-1 img{
+    width: 350px;
+    height: 233px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+}
+.nuke-1{
+    margin: 0 30px;
+}
+.nuke-1 h5{
+    margin: 10px 0;
+    color: #8643DC;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-weight: 400;
+}
+.nuke-1 h3{
+    color: #000;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-weight: 700;
+}
+.nuke-2 div h5{
+    margin: -130px 0 0 20px ;
+    color: #FFF;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-weight: 500;
+}
+.nuke-2 div h3{
+    margin: -0px 38px 30px 20px;
+    color: #FFF;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-weight: 700;
+}
+/* MAI  */
+/* RUCHNIK */
+.ruchnik{
+    margin: 60px 0 0 0;
+}
+.ruchnik p{
+    color: #8643DC;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.dodo-1{
+    margin: 20px 0;
+    width: 60px;
+height: 2px;
+background: #8643DC;
+}
+.nono-1{
+    display: flex;
+}
+.nono-1 h4{
+    color: #21232D;
+font-size: 23px;
+font-weight: 500;
+line-height: 30px;
+}
+.nono-1 h5{
+    margin: 0 0 0 680px;
+    color: #8643DC;
+font-size: 18px;
+font-weight: 400;
+text-decoration-line: underline;
+text-transform: lowercase;
+}
+.what-1{
+    margin: 50px 0;
+    color: #A8A0B0;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.naim-1{
+    margin: 10px 0 0 0;
+    width: 1110px;
+height: 2px;
+background: #DAD2E3;
+}
+
+
+.what-2{
+    color: #A8A0B0;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.naim-2{
+    margin: 10px 0 0 0;
+    width: 1110px;
+height: 2px;
+background: #DAD2E3;
+}
+
+
+.what-3{
+    margin: 50px 0;
+    color: #A8A0B0;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+.naim-3{
+    margin: 10px 0 0 0;
+    width: 1110px;
+height: 2px;
+background: #DAD2E3;
+}
+.geta-1{
+    display: flex;
+}
+.geta-1 button{
+    border: none;
+    color: #FFF;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 18px;
+font-weight: 500;
+width: 200px;
+height: 60px;
+border-radius: 100px;
+background: #8643DC;
+}
+.iconco-1 span{
+    margin: 0 0 0 910px;
+font-size: 30px;
+    display: flex;
+}
+.friends-1{
+    margin:70px 0 0 0 ;
+}
+.friends-1 h2{
+    color: #21232D;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+}
+.cola-1{
+    margin: 20px 0 0 500px;
+    display: flex;
+}
+.instal-1 span{
+    color: #FFF;
+    margin: 0 0 0 -45px ;
+    font-size: 30px;
+}
+.instal-2{
+    margin: 0 45px;
+}
+.instal-2 span{
+    color: #FFF;
+    margin: -20px 0 0 -50px ;
+    font-size: 30px;
+}
+
+.instal-3 span{
+    color: #FFF;
+    margin: -20px 0 0 -50px ;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* RUCHNIK */
